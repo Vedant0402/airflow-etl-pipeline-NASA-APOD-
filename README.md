@@ -24,6 +24,19 @@ The goal is to build a **reusable and scalable data pipeline** that reflects ind
 - **Astro CLI** – Local Airflow development environment  
 - **Docker** – Containerized execution  
 
+---
+
+## Screenshots  
+
+### Airflow UI  
+![Airflow UI](./assets/airflow_ui.png)  
+
+### Successful DAG Run  
+![DAG Run Success](./assets/dag_run_success.png)  
+
+### XCom Extract Task Output  
+![XCom Extract](./assets/xcom_extract_apod.png) 
+
 
 
 
